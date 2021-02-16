@@ -52,7 +52,7 @@ At the time of when a punishment was issued, Bot stores the following informatio
     <li>User ID of the punished user</li>
     <li>Reason for issued punishment</li>
     <li>Type of punishment</li>
-    <li>User ID of the Staff Team member&nbsp;issuing the punishment<br></li>
+    <li>User ID of the Staff Team member issuing the punishment</li>
     <li>Name and discriminator of the Staff Team member issuing the punishment</li>
     <li>Date and time of when the punishment is issued (ISO 8601 format)</li>
 </ul>
@@ -67,4 +67,4 @@ In order to conveniently keep track of moderator actions, Staff Team members are
 User Data is collected for indefinite period of time when a Staff Team member issues a punishment to a User.
 
 ## How to remove your User Data
-Unfortunately, we are unable to remove your user ID for security purposes under any circumstances. However, it is possible to have your username hidden or deleted in Mod-log Information per manual request done by sending an e-mail to shivaco.osu@gmail.com.
+Unfortunately, we are unable to remove your user ID for security purposes under any circumstances. However, it is possible to have your username hidden or deleted in Mod-log Information per manual request done by sending an e-mail to discord@to-the-beat.com.
