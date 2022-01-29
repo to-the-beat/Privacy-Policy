@@ -1,4 +1,4 @@
-# TO THE BEAT! PRIVACY POLICY
+# TO THE BEAT! PRIVACY POLICY (OUTDATED AS OF 2021-01-06)
 
 The following Privacy Policy clarifies what the official to the beat! ("ttb!") Discord bot ("Bot") stores in order to improve user experience.
 
